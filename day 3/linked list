@@ -7,5 +7,4 @@ b=linkedlist(3)
 c=linkedlist(4)
 a.nextnode=b
 b.nextnode=c
-
 print(a.nextnode.value)
